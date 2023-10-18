@@ -9,5 +9,9 @@ int main()
  
  printf("please provide the amount to be converted");
  scanf("%i",&totalAmount);
+  charges = (10/100) * totalAmount;
+ remainingAmount = totalAmount - charges;
+ yens = (remainingAmount/2) * YEN_PER_USD;
+ pounds = (remainingAmount/2) * POUND_PER_USD:
  
 }
