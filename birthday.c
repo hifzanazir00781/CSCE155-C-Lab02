@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Hifza Nazir 
  *
  * This program interactively prompts the user for
  * their birthday and computes how old they are.
