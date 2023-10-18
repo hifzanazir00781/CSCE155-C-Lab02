@@ -13,5 +13,7 @@ int main()
  remainingAmount = totalAmount - charges;
  yens = (remainingAmount/2) * YEN_PER_USD;
  pounds = (remainingAmount/2) * POUND_PER_USD:
- 
+
+ printf("you got %f pounds, and %d yens", pounds,yens);
+ return 0;
 }
