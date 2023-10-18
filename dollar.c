@@ -1,3 +1,7 @@
+/**
+ * Author : hifza nazir
+ * This program is use to convert USD to yens and pounds
+*/
 #include<stdio.h>
 int main()
 {
