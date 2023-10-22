@@ -84,7 +84,12 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
-Ans: This convert is impossible becaue as we know that the range of long int is -9223372036854775808 to 9223372036854775808 , and the above number is much greater  then this arrange.
+Ans: I would not be able to use it to convert the US national debt to int types conversion program 
+because the range of integer is very small as compare to US national dept 
+
+As we know that:
+US national debt = 26009754625487
+int range = -2147483648 to  2147483647
 
 
 7. Mixed types
