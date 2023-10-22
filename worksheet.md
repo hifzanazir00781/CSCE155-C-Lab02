@@ -57,8 +57,8 @@ Hello, HamzaNisar.  You are 0 years, 0 weeks, and 0 days old today
   size: 4 bytes
   range: -2147483648 to 2147483648
 * `long int`
-  size: 8 bytes
-  range: -9223372036854775808 to 9223372036854775808 
+  size: 4 bytes
+  range: -2147483648 to  2147483647
 * `float`
   size: 4 bytes
   range: 7 digits of accuracy
